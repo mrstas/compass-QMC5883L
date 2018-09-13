@@ -1,0 +1,27 @@
+{
+  "name": "compass-qmc5883l",
+  "version": "1.0.0",
+  "description": "nodejs package to work with QMC5883L compass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mrstas/compass-QMC5883L.git"
+  },
+  "keywords": [
+    "compass",
+    "i2c",
+    "QMC5883L"
+  ],
+  "author": "Stanislav Meshcheriakov",
+  "license": "APSL-2.0",
+  "dependencies": {
+    "i2c-bus": "^1.0.2"
+  },
+  "bugs": {
+    "url": "https://github.com/mrstas/compass-QMC5883L/issues"
+  },
+  "homepage": "https://github.com/mrstas/compass-QMC5883L#readme"
+}
