@@ -1,11 +1,11 @@
-# compass-hmc5883l
+# compass-qmc5883l
 
 This is a library to run the QMC5883L 3-axis digital compass IC via the i2c bus.  It has tested on Raspberry Pi with both I2C#0 and I2C#1.
 
 Install:
 
 ```sh
-npm install compass-QMC5883L
+npm install compass-qmc5883L
 ```
 
 ## License
