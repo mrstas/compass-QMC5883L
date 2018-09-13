@@ -5,7 +5,7 @@ This is a library to run the QMC5883L 3-axis digital compass IC via the i2c bus.
 Install:
 
 ```sh
-npm install compass-qmc5883L
+npm install compass-qmc5883l
 ```
 
 ## License
